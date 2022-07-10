@@ -3,7 +3,7 @@
 - 🔭 Buscando oportunidade como Dev Junior IOS<br>
 - 🌱 Tenho estudado Desenvolvimento IOS 11 - Swift 4(Curso: Eric Brito)<br>
 - 👯 Estou procurando colaborar em projetos de código aberto<br>
-- 👨 Pronomes: Ele/Ele
+- 👨 Pronomes: Ele/Ele<\br>
 
 <div align="center">
   <a href="https://github.com/thsilv">

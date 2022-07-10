@@ -1,9 +1,9 @@
 <h1 align="center">Olá, seja bem vindo !</h1><i>
-<p align="center"> Me chamo <a href="https://www.linkedin.com/in/thiago-silva-da-costa/"><i>Thiago Silva</i></a>, sou estudante de Engenharia de Software na Unicesumar e apaixonado por tecnologia.</h1><p align="left">
+<p align="center"> Me chamo <a href="https://www.linkedin.com/in/thiago-silva-da-costa/"><i>Thiago Silva</i></a>, sou estudante de Engenharia de Software na Unicesumar e apaixonado por tecnologia.</p><p align="left">
 - 🔭 Buscando oportunidade como Dev Junior IOS<br>
 - 🌱 Tenho estudado Desenvolvimento IOS 11 - Swift 4(Curso: Eric Brito)<br>
 - 👯 Estou procurando colaborar em projetos de código aberto<br>
-- 👨 Pronomes: Ele/Ele<\br>
+- 👨 Pronomes: Ele/Ele
 
 <div align="center">
   <a href="https://github.com/thsilv">
